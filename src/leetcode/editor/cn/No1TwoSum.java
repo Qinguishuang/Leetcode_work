@@ -41,6 +41,6 @@ public class No1TwoSum {
             return new int[2];
         }
     }
-//leetcode submit region end(Prohibit modification and deletion)
+    //leetcode submit region end(Prohibit modification and deletion)
 
 }
