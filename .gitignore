@@ -1,3 +1,4 @@
 /out/
 /.idea/
 src/leetcode/editor/cn/*.json
+src/leetcode/editor/cn/doc/
